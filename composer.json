@@ -1,4 +1,6 @@
 {
     "name": "123/lara_0804_p",
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^1.21"
+    }
 }
